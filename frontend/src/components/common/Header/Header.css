@@ -1,0 +1,9 @@
+.btn-sign {
+  color: theme('colors.light') !important;
+  top: 0.03rem !important;
+  position: relative !important;
+}
+
+.text-pdx{
+  padding: 10px;
+}
